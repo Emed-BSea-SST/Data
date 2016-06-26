@@ -6,19 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://github.com/Emed-BSea-SST/Data/galleries/Recent/rss.xml</loc>
-  <lastmod>2016-06-26T14:21:00Z</lastmod>
+  <loc>https://emed-bsea-sst.github.io/Data/galleries/Recent/rss.xml</loc>
+  <lastmod>2016-06-26T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://github.com/Emed-BSea-SST/Data/galleries/rss.xml</loc>
-  <lastmod>2016-06-26T14:21:00Z</lastmod>
+  <loc>https://emed-bsea-sst.github.io/Data/galleries/rss.xml</loc>
+  <lastmod>2016-06-26T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://github.com/Emed-BSea-SST/Data/rss.xml</loc>
-  <lastmod>2016-06-26T14:21:00Z</lastmod>
+  <loc>https://emed-bsea-sst.github.io/Data/rss.xml</loc>
+  <lastmod>2016-06-26T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://github.com/Emed-BSea-SST/Data/sitemap.xml</loc>
-  <lastmod>2016-06-26T14:21:00Z</lastmod>
+  <loc>https://emed-bsea-sst.github.io/Data/sitemap.xml</loc>
+  <lastmod>2016-06-26T14:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
