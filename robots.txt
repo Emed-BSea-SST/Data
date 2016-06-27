@@ -1,0 +1,4 @@
+Sitemap: https://emed-bsea-sst.github.io/Data/sitemapindex.xml
+
+User-Agent: *
+Host: emed-bsea-sst.github.io
