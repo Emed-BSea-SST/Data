@@ -7,6 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://emed-bsea-sst.github.io/Data/galleries/Recent/rss.xml</loc>
+<<<<<<< HEAD
   <lastmod>2016-07-04T03:19:00Z</lastmod>
  </sitemap>
  <sitemap>
@@ -20,5 +21,36 @@
  <sitemap>
   <loc>https://emed-bsea-sst.github.io/Data/sitemap.xml</loc>
   <lastmod>2016-07-04T03:19:00Z</lastmod>
+=======
+<<<<<<< HEAD
+  <lastmod>2016-07-03T14:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/galleries/rss.xml</loc>
+  <lastmod>2016-07-03T14:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/rss.xml</loc>
+  <lastmod>2016-07-03T14:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/sitemap.xml</loc>
+  <lastmod>2016-07-03T14:36:00Z</lastmod>
+=======
+  <lastmod>2016-06-30T03:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/galleries/rss.xml</loc>
+  <lastmod>2016-06-30T03:23:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/rss.xml</loc>
+  <lastmod>2016-06-30T03:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://emed-bsea-sst.github.io/Data/sitemap.xml</loc>
+  <lastmod>2016-06-30T03:24:00Z</lastmod>
+>>>>>>> 244f2574a18b1955210263a63f673f38cc8f34ee
+>>>>>>> 5a837b12ad02f5e4d69b049b6d208126a8c204a7
  </sitemap>
 </sitemapindex>
