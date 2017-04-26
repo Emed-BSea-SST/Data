@@ -20,4 +20,4 @@ Cloud-free data were produced by applying the `DINEOF <http://modb.oce.ulg.ac.be
 
 .. caution:: 
 
-   The use of these product is granted to every user, free of charge. The Department of Civil Eng. & Geoinformatics of Cyprus University of Technology offers no warranty and accepts no liability in respect of these products. CUT neither commits to nor guarantees the continuity, availability, or quality or suitability for any purpose. Downloading and using these products imply agreement of acceptance of these terms.
+   The use of these product is granted to every user, free of charge. The Department of Civil Engineering and Geomatics of Cyprus University of Technology offers no warranty and accepts no liability in respect of these products. CUT neither commits to nor guarantees the continuity, availability, or quality or suitability for any purpose. Downloading and using these products imply agreement of acceptance of these terms.
