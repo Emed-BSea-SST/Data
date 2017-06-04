@@ -1,60 +1,12 @@
 .. title: Data
 .. slug: Data
-.. date: 2017-06-03 03:10:01 UTC
+.. date: 2017-06-04 03:07:54 UTC
 .. tags:
 .. category:
 .. link:
 .. description:
 .. type: text
  
-  `2017-05-27_SST_00.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_00.nc.gz>`__
-
-  `2017-05-27_SST_01.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_01.nc.gz>`__
-
-  `2017-05-27_SST_02.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_02.nc.gz>`__
-
-  `2017-05-27_SST_03.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_03.nc.gz>`__
-
-  `2017-05-27_SST_04.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_04.nc.gz>`__
-
-  `2017-05-27_SST_05.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_05.nc.gz>`__
-
-  `2017-05-27_SST_06.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_06.nc.gz>`__
-
-  `2017-05-27_SST_07.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_07.nc.gz>`__
-
-  `2017-05-27_SST_08.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_08.nc.gz>`__
-
-  `2017-05-27_SST_09.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_09.nc.gz>`__
-
-  `2017-05-27_SST_10.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_10.nc.gz>`__
-
-  `2017-05-27_SST_11.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_11.nc.gz>`__
-
-  `2017-05-27_SST_12.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_12.nc.gz>`__
-
-  `2017-05-27_SST_13.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_13.nc.gz>`__
-
-  `2017-05-27_SST_14.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_14.nc.gz>`__
-
-  `2017-05-27_SST_15.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_15.nc.gz>`__
-
-  `2017-05-27_SST_16.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_16.nc.gz>`__
-
-  `2017-05-27_SST_17.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_17.nc.gz>`__
-
-  `2017-05-27_SST_18.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_18.nc.gz>`__
-
-  `2017-05-27_SST_19.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_19.nc.gz>`__
-
-  `2017-05-27_SST_20.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_20.nc.gz>`__
-
-  `2017-05-27_SST_21.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_21.nc.gz>`__
-
-  `2017-05-27_SST_22.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_22.nc.gz>`__
-
-  `2017-05-27_SST_23.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-27_SST_23.nc.gz>`__
-
   `2017-05-28_SST_00.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-28_SST_00.nc.gz>`__
 
   `2017-05-28_SST_01.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-05-28_SST_01.nc.gz>`__
@@ -338,6 +290,54 @@
   `2017-06-02_SST_22.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-02_SST_22.nc.gz>`__
 
   `2017-06-02_SST_23.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-02_SST_23.nc.gz>`__
+
+  `2017-06-03_SST_00.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_00.nc.gz>`__
+
+  `2017-06-03_SST_01.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_01.nc.gz>`__
+
+  `2017-06-03_SST_02.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_02.nc.gz>`__
+
+  `2017-06-03_SST_03.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_03.nc.gz>`__
+
+  `2017-06-03_SST_04.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_04.nc.gz>`__
+
+  `2017-06-03_SST_05.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_05.nc.gz>`__
+
+  `2017-06-03_SST_06.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_06.nc.gz>`__
+
+  `2017-06-03_SST_07.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_07.nc.gz>`__
+
+  `2017-06-03_SST_08.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_08.nc.gz>`__
+
+  `2017-06-03_SST_09.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_09.nc.gz>`__
+
+  `2017-06-03_SST_10.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_10.nc.gz>`__
+
+  `2017-06-03_SST_11.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_11.nc.gz>`__
+
+  `2017-06-03_SST_12.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_12.nc.gz>`__
+
+  `2017-06-03_SST_13.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_13.nc.gz>`__
+
+  `2017-06-03_SST_14.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_14.nc.gz>`__
+
+  `2017-06-03_SST_15.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_15.nc.gz>`__
+
+  `2017-06-03_SST_16.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_16.nc.gz>`__
+
+  `2017-06-03_SST_17.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_17.nc.gz>`__
+
+  `2017-06-03_SST_18.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_18.nc.gz>`__
+
+  `2017-06-03_SST_19.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_19.nc.gz>`__
+
+  `2017-06-03_SST_20.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_20.nc.gz>`__
+
+  `2017-06-03_SST_21.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_21.nc.gz>`__
+
+  `2017-06-03_SST_22.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_22.nc.gz>`__
+
+  `2017-06-03_SST_23.nc.gz <https://github.com/Emed-BSea-SST/SSTData/blob/master/2017-06-03_SST_23.nc.gz>`__
 
 .. hint:: 
 
